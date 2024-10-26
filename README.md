@@ -592,3 +592,11 @@ Function Call: get()
 ### Summary
 
 This example illustrates how a simple Solidity contract interacts with the EVM at a low level, showing the relationship between Solidity code, bytecode, opcodes, and storage. Understanding these elements is crucial for optimizing smart contract performance and gas efficiency.
+
+
+
+## Buy Me a Coffee
+
+If you find this EVM Cheatsheet helpful, you can support my work by sending some Ether to my Ethereum address:
+
+**Ethereum Address:** `0xe75280C15B3E07A33F6c79cf3f088947E313ae8e`
