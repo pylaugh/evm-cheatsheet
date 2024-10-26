@@ -15,7 +15,7 @@
 10. [Transaction Lifecycle](#transaction-lifecycle)
 11. [Advanced EVM Concepts](#advanced-evm-concepts)
 12. [Common Opcode Cheatsheet](#opcode-cheatsheet)
-
+13. [Understanding EVM Contract Address Generation, Bytecode Decompilation, and Memory/Storage Management](#understanding-evm-contract-address-generation-bytecode-decompilation-and-memorystorage-management)
 ---
 
 ## What is EVM?
@@ -274,7 +274,7 @@ EVM includes built-in contracts (e.g., hashing functions) that are more efficien
 ---
 
 
-### Understanding EVM Contract Address Generation, Bytecode Decompilation, and Memory/Storage Management
+## Understanding EVM Contract Address Generation, Bytecode Decompilation, and Memory/Storage Management
 
 Let's dive deeper into how the EVM works with complex contracts, covering how contract addresses are generated, the decompilation of bytecode, and memory and storage management in the context of more intricate contract interactions.
 
