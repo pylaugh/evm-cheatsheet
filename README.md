@@ -597,6 +597,6 @@ This example illustrates how a simple Solidity contract interacts with the EVM a
 
 ## Buy Me a Coffee
 
-If you find this EVM Cheatsheet helpful, you can support my work by sending some Ether to my Ethereum address:
+If you find this EVM Cheatsheet helpful, you can support my work by sending some gwei
 
 **Ethereum Address:** `0xe75280C15B3E07A33F6c79cf3f088947E313ae8e`
